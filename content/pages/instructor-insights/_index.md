@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
 ---
@@ -48,18 +50,6 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 ### Offered
 
 A version of this course, focusing on the American novel, is taught one semester per academic year. The focus of the course changes each semester. Examples of past focus topics include [ghosts](/courses/21l-501-the-american-novel-fall-2006/), wealth and poverty, and the American revolution.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![This photo shows how chairs in the classroom surround a central table so students all face each other in a seminar-style classroom.]({{< resource_file b980cde1-300b-b659-e815-84c4fcab77f3 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    This course was taught in a seminar-style classroom where students sat around all sides of a central table. Dr. Kelley used a chalkboard in the room and a projector to show passages of text in Annotation Studio during discussions.
-    
 
 Assessment
 ----------

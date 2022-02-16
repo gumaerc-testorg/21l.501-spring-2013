@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
 title: Digital Tools
 uid: d2ab7fc0-46c8-b37c-d161-2c7facfa195b
