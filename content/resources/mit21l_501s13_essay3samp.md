@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c2130b3b-9d72-85a6-c4c3-c297de99f92a
 resourcetype: Document
 title: 'Becoming Wilderness: A Look at Betrayal in A Mercy'
 uid: 8be95f71-3100-6c7f-8351-6a4d3a013d89

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c2130b3b-9d72-85a6-c4c3-c297de99f92a
 resourcetype: Document
 title: 'Ahab: The American Tragic Hero'
 uid: 236d6593-a088-3af3-2c87-a323084be2f4

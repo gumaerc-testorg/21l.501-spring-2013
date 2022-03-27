@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c2130b3b-9d72-85a6-c4c3-c297de99f92a
 resourcetype: Document
 title: "Genealogy in Age of Innocence: What\u2019s in a Name?"
 uid: 73c35f55-e16b-877f-a773-c4b815f13dde

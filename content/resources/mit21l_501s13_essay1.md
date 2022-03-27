@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c2130b3b-9d72-85a6-c4c3-c297de99f92a
 resourcetype: Document
 title: 'Resources for Mapping Moby-Dick in Locast '
 uid: 4ee9f788-6723-8c40-30ec-f44662858673

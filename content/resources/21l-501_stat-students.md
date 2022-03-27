@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
 resourcetype: Image
 title: 21L-501_stat-students.png
 uid: a6b6b39d-1a86-5d1f-4ba1-a89a7a897d8e

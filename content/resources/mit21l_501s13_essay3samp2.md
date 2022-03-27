@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: c2130b3b-9d72-85a6-c4c3-c297de99f92a
 resourcetype: Document
 title: 'Reflection of history in Absalom, Absalom! '
 uid: b5e49f8f-ee60-a31c-30a3-bace69c3c406
