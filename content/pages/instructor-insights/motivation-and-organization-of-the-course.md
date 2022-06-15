@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section describes the motivation and thematic organization of the
+  course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

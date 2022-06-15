@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains writing assignments that students completed in
+  class, three essay assignments, and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -16,11 +18,11 @@ Due session 11
 
 For this essay, you will explore Melville's imagination of a vast space, the geographical world of _Moby-Dick_. Using a digital mapping tool called [Locast](http://mobile.mit.edu/projects/open-locast-framework/) and a database of Melville's place names keyed to the Longman Critical Edition of the text, you will choose a geographical location or region that interests you. Use Annotation Studio to search _Moby-Dick_ and annotate relevant place names, adding comments, images, and links to useful online materials. You will then create a "cast," or small collection of images, video clips, and comments, to upload to Locast, to populate the class's map of Melville's world, and to share with the class on session 11. Your essay for this project will reflect on the significance of Melville's references to the location you chose in _Moby-Dick_, focusing on particular passages in the text.
 
-[Resources for Mapping _Moby-Dick_ in Locast (PDF)]({{< baseurl >}}/resources/mit21l_501s13_essay1)
+{{% resource_link 4ee9f788-6723-8c40-30ec-f44662858673 "Resources for Mapping _Moby-Dick_ in Locast (PDF)" %}}
 
-["Locations as Characters, A Look at Geography in _Moby-Dick_" (PDF)]({{< baseurl >}}/resources/mit21l_501s13_essay1sam1)
+{{% resource_link a79c692d-9d25-833e-8997-13c91380a866 "\"Locations as Characters, A Look at Geography in _Moby-Dick_\" (PDF)" %}}
 
-["Ahab: The American Tragic Hero" (PDF)]({{< baseurl >}}/resources/mit21l_501s13_essay1sam2)
+{{% resource_link 236d6593-a088-3af3-2c87-a323084be2f4 "\"Ahab: The American Tragic Hero\" (PDF)" %}}
 
 Essay 2: Genealogies in Jacobs, Twain, or Wharton
 -------------------------------------------------
@@ -29,7 +31,7 @@ Due session 19
 
 These authors illuminate the effects of family relationships across boundaries of race, gender, and class. Careful study of the characters' genealogies and family relationships uncovers distinctive themes, patterns, and structures within the book. Use Annotation Studio to search one of these texts for details of family relationships. Then create a poster displaying what you consider the most significant of these relationships and patterns. You will present your poster in the workshop on session 19. In your essay, show how you see/read the effects of genealogy on the novel's themes or characters, focusing on specific examples and passages in the text.
 
-["Genealogy in _Age of Innocence_: What's in a Name?" (PDF)]({{< baseurl >}}/resources/mit21l_501s13_essay2samp)
+{{% resource_link 73c35f55-e16b-877f-a773-c4b815f13dde "\"Genealogy in _Age of Innocence_: What's in a Name?\" (PDF)" %}}
 
 Essay 3: Timelines in Faulkner or Morrison
 ------------------------------------------
@@ -38,9 +40,9 @@ Due session 26
 
 Both these authors concern themselves deeply with American history and its impact on their characters. For this project, you will use Annotation Studio to mark temporal elements of one text and reproduce them on a poster, displaying your material in whatever format suits you—a timeline (of the book's events or of historical events or both) or something less linear. You will present your poster in class on session 26. Your essay will consider the meaning of time or history in some selected aspect of the novel you have chosen.
 
-["Becoming Wilderness: A Look at Betrayal in _A Mercy_" (PDF)]({{< baseurl >}}/resources/mit21l_501s13_essay3samp)
+{{% resource_link 8be95f71-3100-6c7f-8351-6a4d3a013d89 "\"Becoming Wilderness: A Look at Betrayal in _A Mercy_\" (PDF)" %}}
 
-["Reflection of History in _Absalom, Absalom!_" (PDF)]({{< baseurl >}}/resources/mit21l_501s13_essay3samp2) by Lakshmi Subbaraj
+{{% resource_link b5e49f8f-ee60-a31c-30a3-bace69c3c406 "\"Reflection of History in _Absalom, Absalom!_\" (PDF)" %}} by Lakshmi Subbaraj
 
 In-Class Writing Assignments
 ----------------------------
