@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this section, Dr. Kelley describes two digital tools employed during
+  the course.
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,14 +11,11 @@ parent_uid: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
 title: Digital Tools
 uid: d2ab7fc0-46c8-b37c-d161-2c7facfa195b
 ---
+_In this section, Dr. Kelley describes two digital tools employed during the course._
 
-_In this section, Dr. Kelley describes two digital tools employed during the course.  
-_
+In this course, we used two digital tools, [Annotation Studio](http://www.annotationstudio.org/) and [Locast (PDF)](http://web.mit.edu/comm-forum/legacy/mit8/papers/PELLANDA_LocastPaper.pdf), which are open-source, free, and very malleable.
 
-In this course, we used two digital tools, [Annotation Studio](http://www.annotationstudio.org/) and [Locast](http://mobile.mit.edu/projects/open-locast-framework/), which are open-source, free, and very malleable.
-
-[Annotation Studio](http://annotationstudio.org)
-------------------------------------------------
+## ANNOTATION STUDIO
 
 Students were required to annotate the texts we read using Annotation Studio, which is a tool that allows users to select text, comment on it, and then come back to it, find what they located in the text, revise their comments, and start building a paper from their annotations.
 
@@ -28,11 +27,10 @@ It doesn't sound like a big deal, but it's really hard to teach students how to 
 
 Tools designed for literary texts are not necessarily exclusive to the humanities, but they open up possibilities that perhaps a tool designed for a science text wouldn't allow. It's very easy to turn it around and argue that humanities is just a soft science, or that it doesn't use the same standards of proof. But I do think that in focusing on language and the underlying logic, you're getting at something that's different from the informational content and the results and the data.
 
-Locast
-------
+## Locast
 
 We also used a tool called Locast, developed at MIT, which allowed the students to locate places on a map. I had already populated the map with all of the geographical references in _Moby-Dick_. The students' job was to research one of the places that Melville refers to in the book and upload images, film clips, or text to the site on the map, and then present it to the class. During their presentation, they explained the significance of the location for understanding some passage or element in the text. This turned out to be incredibly useful for giving the students an anchor in a book that's vast.
 
-By the time this was all done, we had a student who really understood the Cape of Good Hope, and another who did something on Australia. Another student’s family came from the Isle of Man. There is one reference in the text to a Manxman, but you wouldn't necessarily know that means he is an inhabitant of the Isle of Man. The student found out that it's where a lot of fishermen come from, and that the whalers stopping at European locations might have picked up some of these sailors. The student gave a beautiful demonstration of this with pictures of the Isle of Man. It seems very remote from the text, but it turned out to be integral, to have tremendous relevance, and I was learning from this.  
-  
+By the time this was all done, we had a student who really understood the Cape of Good Hope, and another who did something on Australia. Another student’s family came from the Isle of Man. There is one reference in the text to a Manxman, but you wouldn't necessarily know that means he is an inhabitant of the Isle of Man. The student found out that it's where a lot of fishermen come from, and that the whalers stopping at European locations might have picked up some of these sailors. The student gave a beautiful demonstration of this with pictures of the Isle of Man. It seems very remote from the text, but it turned out to be integral, to have tremendous relevance, and I was learning from this.
+
 All these places are significant to the story in different ways. The mapping exercise allowed them to understand not only a factual element in the text but also a creative and composition one. It was a wonderful way to see how Melville wove these together to create meaning and to add layers of narrative to the story.
