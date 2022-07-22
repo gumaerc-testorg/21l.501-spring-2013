@@ -6,6 +6,7 @@ file: /courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/236d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Ahab: The American Tragic Hero'
 uid: 236d6593-a088-3af3-2c87-a323084be2f4
 ---
 This resources contains information regarding ahab: the american yragic hero. 
-

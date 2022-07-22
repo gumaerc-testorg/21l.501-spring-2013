@@ -6,6 +6,7 @@ file: /courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/73c3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Genealogy in Age of Innocence: What\u2019s in a Name?"
 uid: 73c35f55-e16b-877f-a773-c4b815f13dde
 ---
 This resources contains information regarding genealogy in age of innocence: what’s in a name?.
-
