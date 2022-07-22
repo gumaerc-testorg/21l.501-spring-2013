@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: This section describes the motivation and thematic organization of the
+  course.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
 title: Motivation and Organization of the Course
 uid: 4a4f6c08-d1fa-be38-57ee-9311dae9d648

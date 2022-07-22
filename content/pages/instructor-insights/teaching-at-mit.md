@@ -1,7 +1,12 @@
 ---
 content_type: page
+description: In this section, Dr. Kelley describes her experiences of teaching at
+  MIT.
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
 title: Teaching at MIT
 uid: a0feb7f5-40f6-f72e-86c8-648b37953db6
