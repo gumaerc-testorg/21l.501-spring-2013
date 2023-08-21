@@ -41,8 +41,10 @@
   "learning_resource_types": [
     "Activity Assignments",
     "Presentation Assignments",
-    "Written Assignments with Examples"
+    "Written Assignments with Examples",
+    "Instructor Insights"
   ],
-  "site_uid": "f4d1be84-0aa6-4dfe-8afb-811bb1a8f2f1",
+  "site_uid": "2e45e0f1-7b13-45e4-8fdc-82bcc4f0b4f2",
+  "short_id": "21l.501-spring-2013",
   "title": "Course Metadata"
 }
