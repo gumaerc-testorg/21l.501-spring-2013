@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/b980cde1300bb659e81584c4fcab77f3_21L-501_classroom-1.jpg
+file: /courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/b980cde1300bb659e81584c4fcab77f3_21L-501_classroom-1.jpg
 file_size: 22120
 file_type: image/jpeg
 image_metadata:
