@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding resources for mapping Moby-Dick
   in Locast. '
-file: /courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/4ee9f78867238c4030ecf44662858673_MIT21L_501S13_essay1.pdf
+file: /ol-ocw-studio-app/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/4ee9f78867238c4030ecf44662858673_MIT21L_501S13_essay1.pdf
 file_size: 50975
 file_type: application/pdf
 learning_resource_types:
