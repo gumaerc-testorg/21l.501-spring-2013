@@ -13,7 +13,7 @@ uid: d2ab7fc0-46c8-b37c-d161-2c7facfa195b
 ---
 _In this section, Dr. Kelley describes two digital tools employed during the course._
 
-In this course, we used two digital tools, [Annotation Studio](http://www.annotationstudio.org/) and [Locast (PDF)](http://web.mit.edu/comm-forum/legacy/mit8/papers/PELLANDA_LocastPaper.pdf), which are open-source, free, and very malleable.
+In this course, we used two digital tools, {{% resource_link "63f62194-918b-40ec-a47a-4ccb81068535" "Annotation Studio" %}} and {{% resource_link "551daac8-dd67-467a-89f3-c83270c53f87" "Locast (PDF)" %}}, which are open-source, free, and very malleable.
 
 ## ANNOTATION STUDIO
 
