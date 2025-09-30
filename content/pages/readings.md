@@ -14,9 +14,9 @@ Readings
 
 \[Melville\] = Melville, Herman. _Moby-Dick_: _A Longman_ _Critical Edition_. Edited by John Bryant and Haskell Springer. Longman, 2009. ISBN: 9780205514083.
 
-\[Jacobs\] = Jacobs, Harriet A. _Incidents in the Life of a Slave Girl_. Edited by Jean Fagan Yellin. Belknap Press of Harvard University Press, 2009. ISBN: 9780674035836. \[Preview with [Google Books](http://books.google.com/books?id=JZIbpB7SnFoC&pg=PAfrontcover)\]
+\[Jacobs\] = Jacobs, Harriet A. _Incidents in the Life of a Slave Girl_. Edited by Jean Fagan Yellin. Belknap Press of Harvard University Press, 2009. ISBN: 9780674035836. \[Preview with {{% resource_link "f4a94408-6f50-477a-bb51-76052c54d84d" "Google Books" %}}\]
 
-\[Twain\] = Twain, Mark. _Tragedy of Pudd'nhead Wilson_. Edited by R.D. Gooder. Oxford University Press, 2009. ISBN: 9780199554713. \[Preview with [Google Books](http://books.google.com/books?id=nD4-JjMKLXEC&pg=PAfrontcover)\]
+\[Twain\] = Twain, Mark. _Tragedy of Pudd'nhead Wilson_. Edited by R.D. Gooder. Oxford University Press, 2009. ISBN: 9780199554713. \[Preview with {{% resource_link "52fba829-574a-415d-b0c1-bdc9cb69a574" "Google Books" %}}\]
 
 \[Wharton\] = Wharton, Edith. _Age of Innocence_. Vintage, 2012. ISBN: 9780307949516.
 
