@@ -12,7 +12,7 @@ uid: 55db29ac-f26c-ccf1-d9b8-cbb28e3a0e45
 
 This page focuses on the course _21L.501 The American Novel: Stranger and Stranger_ as it was taught by Dr. Wyn Kelley in Spring 2013.
 
-The course covered American authors and focused on relating the appearance of strangers to different kinds of strangeness. These sophisticated novels collectively illustrated strange places with strange histories, people with strange narratives or backgrounds, and how these can be both strange and estranging at the same time. This course used numerous tools, including {{% resource_link "551daac8-dd67-467a-89f3-c83270c53f87" "Locast (PDF)" %}} and {{% resource_link "63f62194-918b-40ec-a47a-4ccb81068535" "Annotation Studio" %}}, along with writing assignments and presentations.
+The course covered American authors and focused on relating the appearance of strangers to different kinds of strangeness. These sophisticated novels collectively illustrated strange places with strange histories, people with strange narratives or backgrounds, and how these can be both strange and estranging at the same time. This course used numerous tools, including [Locast (PDF)](http://web.mit.edu/comm-forum/legacy/mit8/papers/PELLANDA_LocastPaper.pdf) and [Annotation Studio](http://www.annotationstudio.org/), along with writing assignments and presentations.
 
 ## Course Outcomes
 
@@ -96,4 +96,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 ## Out of class
 
 - {{% resource_link 39f13ef5-e443-ab56-0915-41da879f533d "Reading" %}} of texts and completion of {{% resource_link c2130b3b-9d72-85a6-c4c3-c297de99f92a "assignments" %}} or presentations
-- Geographical mapping in {{% resource_link "551daac8-dd67-467a-89f3-c83270c53f87" "Locast (PDF)" %}}, annotations and revisions in {{% resource_link "63f62194-918b-40ec-a47a-4ccb81068535" "Annotation Studio" %}}
+- Geographical mapping in [Locast (PDF)](http://web.mit.edu/comm-forum/legacy/mit8/papers/PELLANDA_LocastPaper.pdf), annotations and revisions in [Annotation Studio](http://www.annotationstudio.org/)
